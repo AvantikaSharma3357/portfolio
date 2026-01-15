@@ -1,4 +1,4 @@
-### Avantika Sharma
+# Avantika Sharma
 
 # Data Scientist
 

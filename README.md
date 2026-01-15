@@ -1,4 +1,4 @@
-# Avantika.github.io
+# Avantika Sharma
 # Data Scientist
 
 ### Education

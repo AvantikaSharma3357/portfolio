@@ -19,4 +19,5 @@
 This project aimed to predict mortality in heart failure patients using routinely collected clinical and laboratory data. Using the UCI Heart Failure Clinical Records dataset (299 patients, mean follow-up 130 days), we applied Kaplan-Meier survival analysis and multivariate Cox proportional hazards modeling to evaluate time-to-death. Significant predictors of mortality included age, reduced ejection fraction, elevated serum creatinine, low serum sodium, and a history of hypertension. The final model showed good discrimination (C-index ≈ 0.703) and calibration, illustrating that a small set of easily obtainable clinical variables can meaningfully stratify risk. This work highlights the potential for simplified prognostic tools to support clinical decision-making, particularly in low-resource healthcare environments.
 
 [View full code for this project](https://github.com/AvantikaSharma3357/Predicting-Mortality-in-Heart-Failure-Patients/tree/main)
-images/Screen Shot 2026-01-16 at 2.43.16 PM.png
+![Kaplan-Meier Survival Curve](https://github.com/AvantikaSharma3357/portfolio/blob/main/images/Screen%20Shot%202026-01-16%20at%202.43.16%20PM.png)
+

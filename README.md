@@ -37,4 +37,5 @@ This project aimed to predict mortality in heart failure patients using routinel
 [View full code for this project](https://github.com/AvantikaSharma3357/Predicting-Mortality-in-Heart-Failure-Patients/tree/main)
 
 ![Kaplan-Meier Survival Curves](https://github.com/AvantikaSharma3357/portfolio/blob/main/images/Screen%20Shot%202026-01-16%20at%202.43.16%20PM.png)
+![AUC] (https://github.com/AvantikaSharma3357/portfolio/blob/main/images/AUC.png)
 

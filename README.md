@@ -11,7 +11,7 @@
 
 ## Work Experience
 
-### HeartFlow — Data Analyst
+### HeartFlow — Data Analyst(*June 2022 - June 2024*)
 - Analyzed large-scale cardiac CT imaging data to support diagnostic and predictive modeling, including systematic quality assurance and error analysis across multi-site datasets
 - Partnered with engineers and clinicians to identify data failure modes, improve pipeline reliability, and communicate model performance through clear visual and technical summaries
 

@@ -9,7 +9,6 @@
 **University of California, Riverside**  
 *BS in Biology* - June 2022
 
-## Work Expeirence
 ## Work Experience
 
 ### HeartFlow — Data Analyst

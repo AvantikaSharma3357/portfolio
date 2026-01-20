@@ -1,3 +1,4 @@
+<img src="images/profile.png" alt="Avantika Sharma" width="150" style="border-radius:50%;"/>
 # Data Scientist
 
 ## Education

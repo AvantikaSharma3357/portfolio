@@ -10,6 +10,23 @@
 *BS in Biology* - June 2022
 
 ## Work Expeirence
+## Work Experience
+
+### HeartFlow — Data Analyst
+- Analyzed large-scale cardiac CT imaging data to support diagnostic and predictive modeling, including systematic quality assurance and error analysis across multi-site datasets
+- Partnered with engineers and clinicians to identify data failure modes, improve pipeline reliability, and communicate model performance through clear visual and technical summaries
+
+### UCSF DIO — Data Assistant
+- Built and maintained SQL-based dashboards to track program reach, participation trends, and institutional performance metrics
+- Defined standardized metrics and analyzed trends to generate actionable insights for leadership decision-making
+
+### Handshake — MOVE Fellow
+- Evaluated AI model performance using structured quantitative analyses to identify failure modes and reliability gaps
+- Translated analytical findings into data-driven recommendations guiding model refinement and product improvements
+
+### UCSF Hypoxia Lab — Research Assistant
+- Cleaned, structured, and analyzed physiological datasets to support global health research and medical device validation
+- Developed reproducible data workflows and communicated findings through visual summaries and research documentation
 
 ## Projects
 

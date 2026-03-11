@@ -16,7 +16,7 @@
 - Analyzed large-scale cardiac CT imaging data to support diagnostic and predictive modeling, including systematic quality assurance and error analysis across multi-site datasets
 - Partnered with engineers and clinicians to identify data failure modes, improve pipeline reliability, and communicate model performance through clear visual and technical summaries
 
-### UCSF DIO — Data Assistant  *(May 2025 - Present)*
+### UCSF DIO — Data Intern  *(May 2025 - Present)*
 - Built and maintained SQL-based dashboards to track program reach, participation trends, and institutional performance metrics
 - Defined standardized metrics and analyzed trends to generate actionable insights for leadership decision-making
 

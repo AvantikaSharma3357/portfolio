@@ -2,7 +2,7 @@
   <img src="./Profile_photo.jpg" width="180">
 </p>
 
-<h1 align="center">Hi, I'm Avantika Sharma 👋</h1>
+<h1 align="center">Avantika Sharma </h1>
 
 <p align="center">
   Health Data Scientist | Machine Learning | AI & Healthcare

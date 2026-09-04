@@ -1,86 +1,234 @@
+# Hi, I'm Avantika Sharma
+
 <p align="center">
   <img src="./Profile_photo.jpg" width="180">
 </p>
 
-<h1 align="center">Avantika Sharma </h1>
+<h3 align="center">Health Data Scientist | Machine Learning | AI & Healthcare</h3>
 
 <p align="center">
-  Health Data Scientist | Machine Learning | AI & Healthcare
+  MS Health Data Science @ UCSF · Biology @ UC Riverside
 </p>
 
-## Education
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="https://github.com/AvantikaSharma3357">GitHub</a>
+</p>
 
+---
 
-**University of California, San Francisco**  
-*MS in Health Data Science* — Expected 2026
+## About Me
 
-**University of California, Riverside**  
-*BS in Biology* - June 2022
+I'm a Health Data Scientist with a background in biology and a focus on applying data science and AI to healthcare. My work spans statistical modeling, machine learning, deep learning, natural language processing, and large language models.
 
-## Work Experience
+I've worked with clinical, physiological, and medical imaging data across academic research and industry settings, with experience translating complex datasets into actionable insights. I'm particularly interested in building data-driven solutions at the intersection of **healthcare, machine learning, and AI**.
 
-### HeartFlow — Data Analyst *(June 2022 - June 2024)*
-- Analyzed large-scale cardiac CT imaging data to support diagnostic and predictive modeling, including systematic quality assurance and error analysis across multi-site datasets
-- Partnered with engineers and clinicians to identify data failure modes, improve pipeline reliability, and communicate model performance through clear visual and technical summaries
+---
 
-### UCSF DIO — Data Intern  *(May 2025 - May 2026)*
-- Built and maintained SQL-based dashboards to track program reach, participation trends, and institutional performance metrics
-- Defined standardized metrics and analyzed trends to generate actionable insights for leadership decision-making
+## Experience
 
-### Handshake — MOVE Fellow *(August 2025 - December 2025)*
-- Evaluated AI model performance using structured quantitative analyses to identify failure modes and reliability gaps
-- Translated analytical findings into data-driven recommendations guiding model refinement and product improvements
+### HeartFlow
+**Data Science / Analytics**
 
-### UCSF Hypoxia Lab — Research Assistant *(October 2024 – January 2025)*
-- Cleaned, structured, and analyzed physiological datasets to support global health research and medical device validation
-- Developed reproducible data workflows and communicated findings through visual summaries and research documentation
+- Analyzed large-scale cardiac CT imaging data to support healthcare-focused data science initiatives.
+- Applied data analysis and quality-control techniques to identify patterns and improve the reliability of clinical datasets.
+- Collaborated across technical and clinical teams to investigate data-related questions and communicate findings.
+- Used statistical and computational approaches to support research and product development involving cardiovascular health data.
 
-## Projects
+### UCSF
+**Data Science / Research**
 
+- Worked with healthcare and research datasets to support data-driven analyses.
+- Applied statistical modeling, machine learning, and data visualization techniques to clinical and biomedical questions.
+- Collaborated with researchers to clean, analyze, and interpret complex health data.
 
-**Predicting Mortality in Heart Failure Patients**
+### Handshake
+**MOVE Fellow — AI Evaluation**
 
-This project aimed to predict mortality in heart failure patients using routinely collected clinical and laboratory data. Using the UCI Heart Failure Clinical Records dataset (299 patients, mean follow-up 130 days), we applied Kaplan-Meier survival analysis and multivariate Cox proportional hazards modeling to evaluate time-to-death. Significant predictors of mortality included age, reduced ejection fraction, elevated serum creatinine, low serum sodium, and a history of hypertension. The final model showed good discrimination (C-index ≈ 0.703) and calibration, illustrating that a small set of easily obtainable clinical variables can meaningfully stratify risk. This work highlights the potential for simplified prognostic tools to support clinical decision-making, particularly in low-resource healthcare environments.
+- Evaluated and analyzed large language model outputs to assess model performance and quality.
+- Developed structured approaches for evaluating AI-generated responses.
+- Contributed to improving AI systems through systematic testing, analysis, and feedback.
 
-[View full code for this project](https://github.com/AvantikaSharma3357/Predicting-Mortality-in-Heart-Failure-Patients/tree/main)
+---
 
-![Kaplan-Meier Survival Curves](https://github.com/AvantikaSharma3357/portfolio/blob/main/images/Screen%20Shot%202026-01-16%20at%202.43.16%20PM.png)
-![AUC](https://github.com/AvantikaSharma3357/portfolio/blob/main/images/AUC.png)
+# Featured Projects
 
-**Neural Networks & Health Data Analysis**
-Developed and evaluated neural network models for image and biomedical signal classification, exploring how deep learning can be applied to healthcare data. Implemented a feedforward neural network and convolutional neural network (CNN) for EMNIST character classification, followed by neural network-based analysis of ECG signals from the MIT-BIH Arrhythmia Database. Evaluated model performance using accuracy, AUC, and F1-score while applying techniques such as dropout and batch normalization to improve generalization and reduce overfitting.
+## Healthcare AI & LLM Applications
 
-Technologies: Python, TensorFlow/Keras, PyTorch, Neural Networks, CNNs, RNN/LSTM, Deep Learning, Healthcare Data
+Explored the application of deep learning and large language models to healthcare through model selection, LLM APIs, prompt engineering, and healthcare NLP.
 
-[View full code for this project](https://github.com/AvantikaSharma3357/Neural_Networks)
+**What I did:**
+- Compared neural network architectures using systematic model selection and cross-validation.
+- Built an LLM-powered tool for answering healthcare-related questions using the Hugging Face API.
+- Experimented with zero-shot, one-shot, and few-shot prompting strategies.
+- Explored training a lightweight GPT model for disease entity recognition.
 
-**BERT-Based News Classification**
+**Tech:** Python · PyTorch · TensorFlow/Keras · Hugging Face · Transformers · LLMs · GPT · NLP · Prompt Engineering
 
-Developed a natural language processing (NLP) pipeline to automatically classify BBC news articles into five categories: business, entertainment, politics, sport, and technology. Fine-tuned a pre-trained BERT (bert-base-uncased) model using PyTorch and Hugging Face Transformers, implementing tokenization, stratified train/validation splitting, and a custom training loop. The model achieved 99.3% validation accuracy after three training epochs, demonstrating the effectiveness of transformer-based models for contextual text classification.
+🔗 [View Project](https://github.com/UCSF-DataSci/7-transformers-AvantikaSharma3357)
 
-Technologies: Python, PyTorch, Hugging Face Transformers, BERT, NLP, scikit-learn, Pandas, NumPy
+---
 
-[View full code for this project](https://github.com/AvantikaSharma3357/Sentiment_Analysis_Transformers)
+## Predicting Mortality in Heart Failure Patients
 
-**Healthcare AI & LLM Applications**
+Applied survival analysis to investigate factors associated with mortality among patients with heart failure.
 
-Explored the application of deep learning and large language models (LLMs) to healthcare data through a series of model development and evaluation tasks. Compared multiple neural network architectures using systematic model selection and cross-validation, then developed an LLM-powered chat tool for healthcare-related questions using the Hugging Face API. Experimented with zero-shot, one-shot, and few-shot prompting strategies to evaluate how prompt design affects model responses, with an optional implementation of a small GPT model for disease entity recognition.
+**What I did:**
+- Performed exploratory data analysis and data preprocessing on clinical data.
+- Used Kaplan-Meier survival analysis to examine differences in survival over time.
+- Developed Cox proportional hazards models to evaluate associations between patient characteristics and mortality.
+- Assessed model assumptions using Schoenfeld residuals and model diagnostics.
+- Visualized survival patterns and model results to communicate findings.
 
-Technologies: Python, PyTorch, TensorFlow/Keras, Hugging Face, LLMs, Transformers, GPT, Prompt Engineering, Cross-Validation, Healthcare NLP
+**Tech:** R · Survival Analysis · Cox Proportional Hazards · Kaplan-Meier · ggplot2 · Clinical Data
 
-[View full code for this project](https://github.com/UCSF-DataSci/7-transformers-AvantikaSharma3357/tree/main)
+🔗 [View Project](https://github.com/AvantikaSharma3357/Heart_Failure)
 
-**Health Data Classification**
+---
 
-Built a machine learning pipeline to predict disease outcomes from synthetic patient health data, focusing on practical challenges commonly encountered in healthcare datasets. Developed and evaluated Logistic Regression, Random Forest, and XGBoost models using metrics including precision, recall, F1-score, and AUC. Engineered time-series features from heart-rate measurements, encoded categorical variables using one-hot encoding, and applied SMOTE to address class imbalance and evaluate its impact on model performance.
+## BERT-Based News Classification
 
-Technologies: Python, Pandas, scikit-learn, XGBoost, Logistic Regression, Random Forest, SMOTE, Machine Learning, Feature Engineering
-[View full code for this project](https://github.com/UCSF-DataSci/5-put-a-label-on-it-AvantikaSharma3357)
+Built a natural language processing pipeline to classify BBC news articles into five categories: business, entertainment, politics, sport, and technology.
 
-**SQL Data Investigation: Murder Mystery**
+**What I did:**
+- Fine-tuned a pre-trained BERT (`bert-base-uncased`) model using PyTorch and Hugging Face Transformers.
+- Implemented text tokenization and preprocessing.
+- Used stratified train/validation splitting to maintain class representation.
+- Built a custom model training pipeline.
+- Achieved **99.3% validation accuracy after three training epochs**.
 
-Applied SQL and relational database concepts to investigate a fictional murder using a structured SQLite database. Queried and joined multiple relational tables to uncover relevant records, trace relationships between individuals and events, and identify the suspect based on evidence within the database. Used exploratory querying and logical filtering to navigate an unfamiliar database schema and develop a data-driven conclusion.
+**Tech:** Python · PyTorch · Hugging Face Transformers · BERT · NLP · scikit-learn · Pandas · NumPy
 
-Technologies: SQL, SQLite, Python, Jupyter Notebook, Relational Databases, Data Exploration
-[View full code for this project](https://github.com/UCSF-DataSci/3-sql-AvantikaSharma3357)
+🔗 [View Project](https://github.com/AvantikaSharma3357/Sentiment_Analysis_Transformers)
+
+---
+
+## Health Data Classification
+
+Developed machine learning models to predict disease outcomes using patient health data while addressing common challenges in healthcare datasets.
+
+**What I did:**
+- Compared Logistic Regression, Random Forest, and XGBoost classification models.
+- Engineered features from heart-rate time-series data.
+- Applied one-hot encoding to categorical variables.
+- Used SMOTE to address class imbalance.
+- Evaluated models using AUC, precision, recall, and F1-score.
+
+**Tech:** Python · Pandas · scikit-learn · XGBoost · Random Forest · SMOTE · Machine Learning · Feature Engineering
+
+🔗 [View Project](https://github.com/UCSF-DataSci/5-put-a-label-on-it-AvantikaSharma3357)
+
+---
+
+# Additional Projects
+
+### Neural Networks & Health Data Analysis
+
+Applied neural network and deep learning techniques to image and biomedical signal classification.
+
+- Built feedforward neural networks and CNNs for EMNIST character classification.
+- Applied neural networks to ECG signal classification using the MIT-BIH Arrhythmia Database.
+- Evaluated models using accuracy, AUC, and F1-score.
+- Applied dropout and batch normalization to improve generalization.
+
+**Tech:** Python · TensorFlow/Keras · PyTorch · CNNs · RNN/LSTM · Deep Learning · Healthcare Data
+
+🔗 [View Project](https://github.com/AvantikaSharma3357/Neural_Networks)
+
+---
+
+### SQL Data Investigation
+
+Used SQL and relational database concepts to investigate a fictional murder through a structured SQLite database.
+
+- Queried and joined multiple relational tables.
+- Used filtering and exploratory queries to trace relationships between individuals and events.
+- Navigated an unfamiliar database schema to identify relevant evidence.
+- Developed a data-driven conclusion from the available records.
+
+**Tech:** SQL · SQLite · Python · Jupyter Notebook · Relational Databases
+
+🔗 [View Project](https://github.com/UCSF-DataSci/3-sql-AvantikaSharma3357)
+
+---
+
+# Technical Skills
+
+### Programming
+Python · R · SQL · SAS · MATLAB
+
+### Data Science & Machine Learning
+Pandas · NumPy · scikit-learn · XGBoost · Random Forest · Logistic Regression · Feature Engineering · Model Evaluation · Cross-Validation
+
+### Deep Learning
+PyTorch · TensorFlow/Keras · Neural Networks · CNNs · RNNs · LSTMs
+
+### NLP & AI
+Hugging Face · BERT · Transformers · Large Language Models · Prompt Engineering · NLP · AI Evaluation
+
+### Statistics
+Survival Analysis · Cox Proportional Hazards · Kaplan-Meier Analysis · Statistical Modeling · Experimental Analysis
+
+### Data & Visualization
+Jupyter Notebook · RStudio · Excel · Tableau · ggplot2 · Data Visualization
+
+### Healthcare Data
+Clinical Data · Medical Imaging · Physiological Data · Biomedical Data · Healthcare Analytics
+
+---
+
+# Education
+
+### University of California, San Francisco
+**Master of Science in Health Data Science**
+
+Focus areas include:
+- Machine Learning
+- Statistical Modeling
+- Biostatistics
+- Healthcare Data Science
+- Artificial Intelligence
+- Data Ethics & Privacy
+
+### University of California, Riverside
+**Bachelor of Science in Biology**
+
+---
+
+# 🔬 Research Interests
+
+I'm particularly interested in:
+
+- Healthcare AI
+- Machine Learning & Deep Learning
+- Large Language Models & NLP
+- Clinical & Biomedical Data Science
+- Medical Imaging
+- Statistical Modeling
+- AI Evaluation & Responsible AI
+
+---
+
+# Let's Connect
+
+I'm always interested in opportunities to work at the intersection of **healthcare, data science, and AI**.
+
+<p align="center">
+  <a href="https://github.com/AvantikaSharma3357">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Turning healthcare data into insights, and insights into better decisions.</i>
+</p>
 

@@ -1,5 +1,12 @@
-<img src="images/profile.png" alt="Avantika Sharma" width="150" style="border-radius:50%;"/>
-# Data Scientist
+<p align="center">
+  <img src="./Profile_photo.jpg" width="180">
+</p>
+
+<h1 align="center">Hi, I'm Avantika Sharma 👋</h1>
+
+<p align="center">
+  Health Data Scientist | Machine Learning | AI & Healthcare
+</p>
 
 ## Education
 

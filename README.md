@@ -1,4 +1,4 @@
-# Hi, I'm Avantika Sharma
+# Avantika Sharma
 
 <p align="center">
   <img src="./Profile_photo.jpg" width="180">

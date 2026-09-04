@@ -40,3 +40,10 @@ This project aimed to predict mortality in heart failure patients using routinel
 ![Kaplan-Meier Survival Curves](https://github.com/AvantikaSharma3357/portfolio/blob/main/images/Screen%20Shot%202026-01-16%20at%202.43.16%20PM.png)
 ![AUC](https://github.com/AvantikaSharma3357/portfolio/blob/main/images/AUC.png)
 
+**Neural Networks & Health Data Analysis**
+Developed and evaluated neural network models for image and biomedical signal classification, exploring how deep learning can be applied to healthcare data. Implemented a feedforward neural network and convolutional neural network (CNN) for EMNIST character classification, followed by neural network-based analysis of ECG signals from the MIT-BIH Arrhythmia Database. Evaluated model performance using accuracy, AUC, and F1-score while applying techniques such as dropout and batch normalization to improve generalization and reduce overfitting.
+
+Technologies: Python, TensorFlow/Keras, PyTorch, Neural Networks, CNNs, RNN/LSTM, Deep Learning, Healthcare Data
+
+[View full code for this project](https://github.com/AvantikaSharma3357/Neural_Networks)
+

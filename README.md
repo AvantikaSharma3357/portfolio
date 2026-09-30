@@ -54,6 +54,24 @@ I've worked with clinical, physiological, and medical imaging data across academ
 
 # Featured Projects
 
+## Medtech Commercial Analytics
+
+Built a tested analytics application that turns Salesforce-style CRM data into governed KPIs for the commercial team of a fictional medical imaging company, with row-level security and automated data quality checks.
+
+**What I did:**
+- Built a Streamlit dashboard covering bookings, win rate, average deal size, open pipeline by stage, and monthly customer usage by product and region.
+- Defined every business metric once in a version-controlled YAML semantic layer that compiles requests into parameterized SQL, with ratio metrics composed from base measures.
+- Implemented role-based access control with row-level security enforced in the query layer, so admins, regional managers, and sales reps each see only their own data.
+- Wrote SQL data quality checks for issues like orphaned records, invalid owners, and stage/flag mismatches, with errors failing CI and warnings surfaced in the dashboard.
+- Set up a pull request workflow with GitHub Actions running linting, data quality checks, a pytest suite, and an app smoke test on every change.
+- Generated synthetic Salesforce-style Account, Opportunity, and usage data so the project uses no real customer information.
+
+**Tech:** Python · SQL · DuckDB · Streamlit · Plotly · Pandas · YAML · pytest · GitHub Actions · Git
+
+🔗 [View Project](https://github.com/AvantikaSharma3357/medtech-commercial-analytics)
+
+---
+
 ## Healthcare AI & LLM Applications
 
 Explored the application of deep learning and large language models to healthcare through model selection, LLM APIs, prompt engineering, and healthcare NLP.

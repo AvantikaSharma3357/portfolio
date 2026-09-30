@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="https://www.linkedin.com/in/avantika-sharma-b12787161/">LinkedIn</a> •
+  <a href="mailto:Avantika3357@gmail.com">Email</a> •
   <a href="https://github.com/AvantikaSharma3357">GitHub</a>
 </p>
 
